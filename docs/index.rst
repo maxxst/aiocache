@@ -11,9 +11,9 @@ Installing
 ----------
 
 - ``pip install aiocache``
-- ``pip install aiocache[redis]``
-- ``pip install aiocache[memcached]``
-- ``pip install aiocache[redis,memcached]``
+- ``pip install "aiocache[redis]"``
+- ``pip install "aiocache[memcached]"``
+- ``pip install "aiocache[redis,memcached]"``
 
 
 Usage
